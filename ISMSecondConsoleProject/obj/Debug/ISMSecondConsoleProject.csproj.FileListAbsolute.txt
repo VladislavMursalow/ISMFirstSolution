@@ -1,0 +1,7 @@
+C:\Study\SIC\ISMFirstConsoleProject\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe.config
+C:\Study\SIC\ISMFirstConsoleProject\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe
+C:\Study\SIC\ISMFirstConsoleProject\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.pdb
+C:\Study\SIC\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.csproj.AssemblyReference.cache
+C:\Study\SIC\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.csproj.CoreCompileInputs.cache
+C:\Study\SIC\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.exe
+C:\Study\SIC\ISMFirstConsoleProject\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.pdb
